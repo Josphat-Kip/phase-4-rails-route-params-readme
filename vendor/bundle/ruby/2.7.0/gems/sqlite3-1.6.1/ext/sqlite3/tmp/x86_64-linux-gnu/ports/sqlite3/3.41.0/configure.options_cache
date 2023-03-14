@@ -1,0 +1,1 @@
+["--host=x86_64-linux-gnu", "--enable-static", "--disable-shared", "--enable-shared=no", "--enable-static=yes", "CC=gcc", "CFLAGS=-fPIC -O2 -fvisibility=hidden", "--prefix=/home/moringa/Development/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/sqlite3-1.6.1/ports/x86_64-linux-gnu/sqlite3/3.41.0"]

@@ -1,0 +1,53 @@
+current directory: /home/moringa/Development/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/nokogiri-1.11.3/ext/nokogiri
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230314-42153-313y60.rb extconf.rb
+checking for whether -g is accepted as CFLAGS... yes
+checking for whether -Winline is accepted as CFLAGS... yes
+checking for whether -Wmissing-noreturn is accepted as CFLAGS... yes
+Building nokogiri using packaged libraries.
+Static linking is enabled.
+Cross build is disabled.
+checking for gzdopen() in -lz... no
+checking for gzdopen() in -llibz... no
+zlib is missing; necessary for building libxml2
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/usr/bin/$(RUBY_BASE_NAME)2.7
+	--help
+	--clean
+	--prevent-strip
+	--enable-system-libraries
+	--disable-system-libraries
+	--use-system-libraries
+	--enable-system-libraries
+	--disable-system-libraries
+	--use-system-libraries
+	--enable-static
+	--disable-static
+	--enable-cross-build
+	--disable-cross-build
+	--with-zlib-dir
+	--without-zlib-dir
+	--with-zlib-include
+	--without-zlib-include=${zlib-dir}/include
+	--with-zlib-lib
+	--without-zlib-lib=${zlib-dir}/lib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /home/moringa/Development/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/extensions/x86_64-linux/2.7.0/nokogiri-1.11.3/mkmf.log
+
+extconf failed, exit code 1
